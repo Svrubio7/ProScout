@@ -1,0 +1,48 @@
+column_name,coefficient
+Accurate passes,1.25
+Ball possession,1.25
+Big saves,1.5
+Blocked shots,1.5
+Clearances,1.25
+Corner kicks,1.25
+Dispossessed,0.75
+Duels,1
+Errors lead to a shot,0.5
+Final third entries,1
+Fouled in final third,1.25
+Fouls,0.75
+Free kicks,1
+Goal kicks,1
+Goals prevented,1.5
+High claims,1
+Hit woodwork,1.25
+Interceptions,1.25
+Offsides,0.75
+Passes,1
+Penalty saves,1.5
+Punches,1.25
+Recoveries,1.5
+Red cards,0.5
+Shots off target,1
+Shots on target,1.25
+Shots outside box,1
+Tackles,1.25
+Tackles won,1.25
+Through balls,1
+Throw-ins,1
+Total shots,1.25
+Total tackles,1.25
+Touches in penalty area,1.25
+Yellow cards,0.75
+Aerial duels_won,1.25
+Aerial duels_lost,0.75
+Crosses_won,1.25
+Crosses_lost,0.75
+Dribbles_won,1.25
+Dribbles_lost,0.75
+Final third phase_won,1.25
+Final third phase_lost,0.75
+Ground duels_won,1.25
+Ground duels_lost,0.75
+Long balls_won,1.25
+Long balls_lost,0.75
